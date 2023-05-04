@@ -17,8 +17,8 @@ Please contact us using this link: https://www.dlr.de/eoc/en/desktopdefault.aspx
 
 TUM Profile: Technical University of Munich (TUM): https://www.bgu.tum.de/lmf/azimi/
 
-## Acknowledgment to Ternow AI
-We appreciate the help of Ternow AI GmbH https://ternow.ai for its assistance with the annotation process to achieve very high-quality, inexpensive, safe and fast annotation data.
+## Acknowledgment to Torno AI
+We appreciate the help of Torno AI GmbH https://torno.tech for its assistance with the annotation process to achieve very high-quality, inexpensive, safe and fast annotation data.
 
 ### Bibtex
 If you use SkyScapes dataset in your research, please star the project and consider citing:
@@ -44,5 +44,5 @@ If you use SkyScapes dataset in your research, please star the project and consi
 }
 ```
 
-## Hiring
+## Open master thesis and PhD positions
 We are looking for Master and PhD students with Computer Vision knowledge and Deep Learning experience to work in the field of remote sensing in German Aerospace Center (DLR) in  Muenchener Str. 20, 82234 Wessling, Germany.
