@@ -9,6 +9,9 @@ The work has been accepted in ICCV19 conference.
 
 http://openaccess.thecvf.com/content_ICCV_2019/papers/Azimi_SkyScapes__Fine-Grained_Semantic_Understanding_of_Aerial_Scenes_ICCV_2019_paper.pdf
 
+## Download
+You can download the dataset from here
+https://eoc-datasets.dlr.de
 
 ## The link to access to the dataset:
 ### NOTE: we are currently setting up an online evaluation server. As soon as the server is online, you will be notifed in this repo. Thanks for your interest in SkyScapes.
